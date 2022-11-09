@@ -11,5 +11,5 @@ main {
     background-color: #fff;
     width: 500px;
     margin: auto;
-    box-shadow: 5px black;
+    box-shadow: 5px 5px 5px 5px black;
 }
